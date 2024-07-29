@@ -23,7 +23,7 @@
         <img src="./static/images/category_3.jpg"> 
         <div class="caption center-align">
           <h3 class="bold page-title">Bext Shop PC's</h3>
-          <h5 class="bold page-title">From pc to peripherals, we got u covered.</h5>
+          <h5 class="bold page-title">La buena pa todos.</h5>
         </div>
       </li>
       <li>
